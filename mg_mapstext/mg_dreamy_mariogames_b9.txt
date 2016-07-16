@@ -2,7 +2,7 @@
 {
 	"[Map] made by Citrien for"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Citrien 地图翻译：Ex_cKot **"
 	}
 	"[Map] www.dream-community.de"
 	{
@@ -10,138 +10,138 @@
 	}
 	"[Map] block shot will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：方块射击 **"
 	}
 	"[Map] - weapon damage disabled"
 	{
-		"chi"		"** **"
+		"chi"		"**武器伤害 关闭 **"
 	}
 	"[Map] - engaging easy mode"
 	{
-		"chi"		"** **"
+		"chi"		"**简易模式 **"
 	}
 	"[Map] - increased speed"
 	{
-		"chi"		"** **"
+		"chi"		"**加速 **"
 	}
 	"[Map] - maximized speed"
 	{
-		"chi"		"** **"
+		"chi"		"**最大速度 **"
 	}
 	"[Map] - All players alive get an AWP"
 	{
-		"chi"		"** **"
+		"chi"		"**所有玩家获得AWP **"
 	}
 	"[Map] - weapon damage enabled"
 	{
-		"chi"		"** **"
+		"chi"		"**武器伤害 开启 **"
 	}
 	"[Map] weapon switcher will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：武器切换 **"
 	}
 	"[Map] weapon switch every 10seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**每10秒切换武器 **"
 	}
 	"[Map] knife will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：刀 **"
 	}
 	"[Map] reach the hill will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：爬山 **"
 	}
 	"[Map] Reach the top of the mountain, the cannon guy will try to block you."
 	{
-		"chi"		"** **"
+		"chi"		"**尽力到达山顶，会有火炮阻止你的前行 **"
 	}
 	"[Map] Killing all people in 15seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒内处死所有玩家 **"
 	}
 	"[Map] Killing all people in 10seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒内处死所有玩家 **"
 	}
 	"[Map] Killing all people in 5seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒内处死所有玩家 **"
 	}
 	"[Map] Killing all people in 4seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**4秒内处死所有玩家 **"
 	}
 	"[Map] Killing all people in 3seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒内处死所有玩家 **"
 	}
 	"[Map] Killing all people in 2seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**2秒内处死所有玩家 **"
 	}
 	"[Map] Killing all people in 1second"
 	{
-		"chi"		"** **"
+		"chi"		"**1秒内处死所有玩家 **"
 	}
 	"[Map] climb will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：攀爬 **"
 	}
 	"[Map] - fall damage disabled"
 	{
-		"chi"		"** **"
+		"chi"		"**掉落伤害 关闭 **"
 	}
 	"[Map] soccer will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：足球 **"
 	}
 	"[Map] molotov wars will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：麻辣烫 **"
 	}
 	"[Map] Everyone get every 5seconds a molotov"
 	{
-		"chi"		"** **"
+		"chi"		"**每5秒每人获得一颗麻辣烫 **"
 	}
 	"[Map] Counter-Terrorist win"
 	{
-		"chi"		"** **"
+		"chi"		"**CT 胜利 **"
 	}
 	"[Map] skipping rope will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：跳绳 **"
 	}
 	"[Map] weapon damage disabled"
 	{
-		"chi"		"** **"
+		"chi"		"**武器伤害 关闭 **"
 	}
 	"[Map] engine is switched on"
 	{
-		"chi"		"** **"
+		"chi"		"**引擎开启 **"
 	}
 	"[Map] bob-omb survival will be the next minigame"
 	{
-		"chi"		"** **"
+		"chi"		"**下个游戏：炸弹幸存者 **"
 	}
 	"[Map] - release first bob-omb"
 	{
-		"chi"		"** **"
+		"chi"		"**释放第一个炸弹 **"
 	}
 	"[Map] - increase bob-ombs at time to two"
 	{
-		"chi"		"** **"
+		"chi"		"**释放两个 **"
 	}
 	"[Map] - maximize bob-ombs at time to three"
 	{
-		"chi"		"** **"
+		"chi"		"**释放三个 **"
 	}
 	"[Map] Terrorist win"
 	{
-		"chi"		"** **"
+		"chi"		"**T 胜利 **"
 	}
 	"[Map] nothing choosen..."
 	{
-		"chi"		"** **"
+		"chi"		"**无选择 **"
 	}
 }
